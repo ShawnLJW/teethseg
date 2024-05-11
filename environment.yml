@@ -7,5 +7,6 @@ dependencies:
   - pip=24.0
   - cxx-compiler=1.7.0
   - jupyterlab=4.2.0
+  - jupyterlab_server=2.27.1
   - pip:
     - open3d==0.18.0
