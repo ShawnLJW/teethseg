@@ -10,6 +10,5 @@ conda activate teethseg
 ```
 
 ```{bash}
-git submodule update --init --recursive
-pip install -e point-transformer/lib/pointops
+pip install -e external_libs/pointops
 ```

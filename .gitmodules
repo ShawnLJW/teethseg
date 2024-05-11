@@ -1,3 +1,0 @@
-[submodule "point-transformer"]
-	path = pointtransformer
-	url = https://github.com/POSTECH-CVLab/point-transformer.git
